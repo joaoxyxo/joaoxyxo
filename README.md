@@ -19,9 +19,9 @@ Building Polarize Poker's internal tools: requirements, UX, Vue, Supabase and de
 | **Joguinho** <sub>private</sub> | Real-time multiplayer strategy game in the browser. NestJS, Socket.IO, Vue, Pixi.js |
 | **Saloon** <sub>private</sub> | Back-office for small hair salons: agenda, billing, CRM, messaging. React, TypeScript |
 | **High5HighKicks** <sub>private</sub> | Amateur football leagues with friends: RSVP, waitlists, team draft, live games |
-| **Poker Draw School** <sub>private</sub> | PWA for training GTO poker ranges with quizzes and hand-history analysis. React |
+| 🃏 **Poker Draw School** · [live](https://poker-draw-school.vercel.app) | PWA for training GTO poker ranges with quizzes and hand-history analysis. React |
 | **WabiSabiFriend** <sub>private</sub> | Local-first daily companion for reflection, rituals and a personal budget. React |
-| **Desnaturados** <sub>private</sub> | Dark-humour card game for couples, playable prototype. Vue, GSAP, Three.js |
+| 😈 **Desnaturados** · [live](https://desnaturados.vercel.app) | Dark-humour card game for couples, playable prototype. Vue, GSAP, Three.js |
 | [**shorts-be-gone**](https://github.com/joaoxyxo/shorts-be-gone) | Userscript that hides YouTube Shorts |
 | **Small tools** | Screen-area recorder with system audio (Python) and an auto-saver for screenshots |
 
