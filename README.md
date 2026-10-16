@@ -1,7 +1,7 @@
 ### Hi, I'm João 🥾
 
 Frontend engineer in Aveiro, Portugal, building with Vue and TypeScript since 2018.
-I like taking a problem, understanding it properly and shipping something that lasts, from the first sketch to production.
+I joined Polarize Poker as a junior developer in 2020 and today I lead the dev team. I still write code every day, but I also plan the roadmap, set priorities and take products from idea to production.
 
 | **8+ years** | **5 products** | **1 sign-in** |
 | :---: | :---: | :---: |
@@ -19,7 +19,7 @@ I like taking a problem, understanding it properly and shipping something that l
 
 #### Right now
 
-Building Polarize Poker's internal tools: requirements, UX, Vue, Supabase and deployment.
+Leading the dev team at Polarize Poker and building its internal tools: planning, UX, Vue, Supabase and deployment.
 
 #### Side projects
 
