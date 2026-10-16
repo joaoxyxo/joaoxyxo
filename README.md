@@ -3,6 +3,8 @@
 Frontend engineer in Aveiro, Portugal, building with Vue and TypeScript since 2018.
 I joined Polarize Poker as a junior developer in 2020 and today I lead the dev team. I still write code every day, but I also plan the roadmap, set priorities and take products from idea to production.
 
+📄 [Resume (PDF)](resume/Joao-Santos-Resume.pdf) · [LinkedIn](https://linkedin.com/in/joaosantos45)
+
 | **8+ years** | **5 products** | **1 sign-in** |
 | :---: | :---: | :---: |
 | frontend | built end to end | across the whole suite |
@@ -37,4 +39,4 @@ Leading the dev team at Polarize Poker and building its internal tools: planning
 
 Off the keyboard: trails and a small vegetable garden.
 
-🟢 Open to remote roles in the EU · [LinkedIn](https://linkedin.com/in/joaosantos45)
+🟢 Open to remote roles in the EU · [LinkedIn](https://linkedin.com/in/joaosantos45) · [📄 Resume (PDF)](resume/Joao-Santos-Resume.pdf)
