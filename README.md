@@ -34,4 +34,4 @@ Off the keyboard: trails and a small vegetable garden.
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-🟢 Open to remote roles in the EU · [LinkedIn](https://linkedin.com/in/joaosantos45) · [Email](mailto:joao.mirasan@hotmail.com)
+🟢 Open to remote roles in the EU · [LinkedIn](https://linkedin.com/in/joaosantos45)
